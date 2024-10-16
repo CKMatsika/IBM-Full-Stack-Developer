@@ -1,0 +1,58 @@
+Contributing to the Simple Interest Calculator Project
+Thank you for considering contributing to our project! We welcome all kinds of contributions, whether it's fixing bugs, improving documentation, or adding new features. Please read through the following guidelines to ensure your contribution is meaningful and in line with our standards.
+
+How to Contribute
+1. Fork the Repository
+Before making any changes, please fork the repository to your GitHub account. This allows you to freely experiment with your changes without affecting the original project.
+
+2. Clone Your Fork
+Clone the repository to your local machine using the following command:
+
+bash
+Copy code
+git clone https://github.com/your-username/simple-interest-calculator.git
+3. Create a Branch
+When you’re ready to make changes, create a new branch for your feature or fix:
+
+bash
+Copy code
+git checkout -b feature-name
+This step ensures that your work is isolated from the main project.
+
+4. Make Changes
+Modify the code to fix bugs, add features, or improve documentation. Please follow the existing code style and conventions to keep the codebase consistent.
+
+5. Commit Your Changes
+Once your changes are complete, commit them with a meaningful message that explains the purpose of the changes:
+
+bash
+Copy code
+git commit -m "Add feature/fix bug: [brief description of the changes]"
+6. Push to Your Fork
+Push the changes from your local branch to your fork on GitHub:
+
+bash
+Copy code
+git push origin feature-name
+7. Create a Pull Request
+Once your changes are pushed to GitHub, go to the original repository and create a pull request. Be sure to explain the purpose of your changes and why they should be merged into the project.
+
+8. Wait for Review
+Your pull request will be reviewed by a project maintainer. We may ask for clarifications or changes, so please be ready to respond. Once approved, your changes will be merged into the project.
+
+Contribution Guidelines
+Bug Fixes: Ensure that your changes address the bug without introducing new issues. If possible, write tests that reproduce the bug and verify the fix.
+New Features: Propose new features by creating an issue or contacting a maintainer before implementing them. This will help us discuss whether the feature aligns with the project goals.
+Code Style: Please follow the existing coding style. Make sure your code is clean, commented, and well-structured.
+Tests: If your contribution introduces new functionality, please add appropriate tests.
+Documentation: Contributions that improve the project's documentation are welcome! Please ensure your documentation is clear and concise.
+Code of Conduct
+By contributing to this project, you agree to adhere to our Code of Conduct. We aim to foster a welcoming and respectful environment for all participants, and we expect all contributors to do the same.
+
+License
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0, the same as this project. For more details, please see the LICENSE file.
+
+Need Help?
+If you have any questions or need assistance, feel free to open an issue or contact the project maintainers.
+
+We appreciate your time and effort in helping improve the Simple Interest Calculator project. Happy coding!
